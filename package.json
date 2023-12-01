@@ -1,0 +1,15 @@
+{
+  "name": "jsdesign",
+  "version": "1.0.0",
+  "description": "Test template repo for new dbwebb webpage?",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Running tests...\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
